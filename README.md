@@ -1,10 +1,10 @@
-Routine Task Automation
+<B>Routine Task Automation</B>
 
 A collection of Shell scripts for automating routine AIX/Linux system administration, infrastructure monitoring, maintenance and operational support activities.
 
 The objective of this repository is to simplify repetitive administration tasks, improve operational efficiency, reduce manual intervention and provide reusable automation scripts for infrastructure support teams.
 
-Repository Overview
+<B>Repository Overview</B>
 
 This repository contains scripts covering the following areas:
 
@@ -22,7 +22,7 @@ Log Management: Cleanup, compression and organisation of system performance logs
 
 AIX Administration: Platform-specific Unix administration scripts.
 
-Prerequisites
+<B>Prerequisites</B>
 
 The scripts are primarily intended for Unix/Linux environments.
 
@@ -43,7 +43,7 @@ Database client utilities where applicable
 
 Some scripts are environment-specific and may require additional configuration before execution.
 
-Getting Started
+<B>Getting Started</B>
 
 1. Clone the repository
 
@@ -75,7 +75,7 @@ For KornShell scripts:
 
 ksh script_name.ksh
 
-Operational Considerations
+<B>Operational Considerations</B>
 
 Before using these scripts in production environments:
 
@@ -93,7 +93,7 @@ Validate remote SSH connectivity where required.
 
 Follow organisational change-management procedures before making production changes.
 
-Future Enhancements
+<B>Future Enhancements<B>
 
 Planned improvements for this repository:
 
@@ -101,4 +101,5 @@ Standardised logging and error handling.
 
 Command-line argument validation.
 
+CI/CD integration using GitHub Actions.
 
